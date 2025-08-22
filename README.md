@@ -7,8 +7,8 @@ If my personal presentation rings a bell and you are interested in building some
 
 ---
 ## Education 🧑‍🎓
-I've always had a lot of interests into science that's why I decided to pursue scientific studies:
-- **2015-2018** – Maths and physics in Classe Preparatoires,
+I've always had a lot of interest into science that's why I decided to pursue scientific studies:
+- **2015-2018** – Maths and physics in Classes Preparatoires,
 - **2018-2022** – Masters in Robotics from IMT Atlantique,
 - **2023-2025** – PhD student in Aerospace engineering @ University of Michigan, MDO Lab — *Dropout*
 
