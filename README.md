@@ -18,12 +18,12 @@ I've always had a lot of interest into science that's why I decided to pursue sc
 - ONERA — Design of hovercraft robot
 - NASA (Glenn center) — Conceptual Design Studies of Zero Emission Electric Aircraft
 ### Entrepreneurship 👷‍♀️
-- Founded Visual Maths a YouTube Channel that helped french speaking student visualize complex math concepts [@Visual_Maths](https://www.youtube.com/@Visual_Maths)
+- Founded Visual Maths a YouTube Channel that helped french speaking students visualize complex math concepts [@Visual_Maths](https://www.youtube.com/@Visual_Maths)
 - Co-Founded Aztelia edtech startup developing AI native e-learning platforms [Aztelia](http://aztelia.com)
 ---
 ## Language
-- 🇫🇷 French native speaker
-- 🇬🇧 English fluent
+- 🇫🇷 French — native speaker
+- 🇬🇧 English — fluent
 - Italian and Spanish basics
 ---
 ## Personal interests and life goals
